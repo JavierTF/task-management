@@ -1,3 +1,10 @@
+# Made by
+```bash
+Ing. Javier Toussent Fis
+javiertoussentfis@gmail.com
+https://wa.me/5353913581
+```
+
 # Task Management Application
 
 A modern task management application built with React, TypeScript, Vite, Axios and Material-UI. This application allows users to manage their tasks with features like creating, completing, and deleting tasks, along with pagination and local storage persistence.
