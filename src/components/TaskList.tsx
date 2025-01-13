@@ -1,4 +1,3 @@
-// src/components/TaskList.tsx
 import React from 'react';
 import { List, Pagination, Box, CircularProgress } from '@mui/material';
 import { Task, TaskToggleHandler, TaskDeleteHandler, PageChangeHandler } from '../types/types';

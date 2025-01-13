@@ -1,4 +1,3 @@
-// src/components/Layout.tsx
 import React, { ReactNode } from 'react';
 import { Box, AppBar, Toolbar, Typography } from '@mui/material';
 

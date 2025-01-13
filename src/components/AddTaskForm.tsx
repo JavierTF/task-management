@@ -1,7 +1,6 @@
-// src/components/AddTaskForm.tsx
 import React, { useState, FormEvent } from 'react';
 import { Box, TextField, Button } from '@mui/material';
-import { TaskFormData, TaskAddHandler } from '../types/types';
+import { TaskAddHandler } from '../types/types';
 
 interface AddTaskFormProps {
   onAddTask: TaskAddHandler;
