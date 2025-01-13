@@ -5,7 +5,6 @@ import CssBaseline from '@mui/material/CssBaseline';
 import App from './App';
 import { theme } from './theme/theme';
 
-// Aseguramos que el elemento root existe y agregamos aserción de tipo
 const rootElement = document.getElementById('root');
 if (!rootElement) throw new Error('Failed to find the root element');
 
