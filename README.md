@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task Management Application
 
 A modern task management application built with React, TypeScript, Vite, Axios and Material-UI. This application allows users to manage their tasks with features like creating, completing, and deleting tasks, along with pagination and local storage persistence.
@@ -113,3 +114,6 @@ Props:
 - `onDelete: (id: number) => void` - Callback when task is deleted
 
 ## Custom Hooks
+=======
+# task-management
+>>>>>>> 4fa41da42f248d69c8737b6e11745d851949305d
