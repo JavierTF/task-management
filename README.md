@@ -62,7 +62,7 @@ task-management/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/JavierTF/task-management
+git clone https://github.com/JavierTF/task-management (master branch)
 cd task-management
 ```
 
